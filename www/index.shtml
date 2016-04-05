@@ -45,7 +45,7 @@
 							<div id="translationPlayer" class="translationPlaceholder"></div>
 						</div>
 
-						<div class="brick view_grey hideOn_1280">
+						<div class="brick view_grey not_for_hover hideOn_1280">
 							<!--#include virtual="bricks/main-for-today.shtml"-->
 						</div>
 
@@ -70,7 +70,7 @@
 							<div id="translationPlayerMobile" class="translationPlaceholder"></div>
 						</div>
 
-						<div class="brick view_grey hideOn_1280">
+						<div class="brick view_grey not_for_hover hideOn_1280">
 							<!--#include virtual="bricks/main-for-today.shtml"-->
 						</div>
 
@@ -83,7 +83,7 @@
 
 
 
-					<div class="brick view_grey hideOn_1024 hideOn_768">
+					<div class="brick view_grey not_for_hover hideOn_1024 hideOn_768">
 						<!--#include virtual="bricks/main-for-today.shtml"-->
 					</div>
 
@@ -373,7 +373,7 @@
 
 		        <div class="bricks__wrapper">
 		            <div class="brick aLaSlideImage">
-				        <!--#include virtual="bricks/alaslideimage.shtml?label=true&image=1"-->
+				        <!--#include virtual="bricks/alaslideimage.shtml?image=1"-->
 		            </div>
 
 		            <div class="brick hideOn_1024 hideOn_768">
@@ -384,7 +384,7 @@
 						<!--#include virtual="bricks/banner-mts.shtml"-->
 					</div>
 
-		            <div class="brick hideOn_1024 hideOn_1280">
+		            <div class="brick not_for_hover hideOn_1024 hideOn_1280">
 		                <div class="brick view_floatText">
 			                <!--#include virtual="bricks/mini-full.shtml?image=1&data=1&label=11"-->
 			            </div>
@@ -468,7 +468,7 @@
 		        <div class="bricks__wrapper">
 
 		            <div class="brick aLaSlideImage">
-				        <!--#include virtual="bricks/alaslideimage.shtml?label=true&image=2"-->
+				        <!--#include virtual="bricks/alaslideimage.shtml?image=2"-->
 		            </div>
 
 		            <div class="brick">
@@ -597,7 +597,7 @@
 		        <div class="bricks__wrapper">
 
 		            <div class="brick aLaSlideImage">
-				        <!--#include virtual="bricks/alaslideimage.shtml?label=true&image=3"-->
+				        <!--#include virtual="bricks/alaslideimage.shtml?image=3"-->
 		            </div>
 
 		            <div class="brick">
